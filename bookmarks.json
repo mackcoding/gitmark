@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "bookmarks": {
+    "/": [
+      { "name": "GitHub", "url": "https://github.com" },
+      { "name": "Hacker News", "url": "https://news.ycombinator.com" }
+    ],
+    "/Dev": [
+      { "name": "Talos Docs", "url": "https://www.talos.dev/latest/" },
+      { "name": "ArgoCD", "url": "https://argo-cd.readthedocs.io" }
+    ],
+    "/Dev/Kubernetes": [
+      {
+        "name": "kubectl Cheatsheet",
+        "url": "https://kubernetes.io/docs/reference/kubectl/cheatsheet/"
+      },
+      { "name": "Kustomize", "url": "https://kustomize.io" }
+    ],
+    "/Fishing": [
+      {
+        "name": "NOAA Tides - Indian River",
+        "url": "https://tidesandcurrents.noaa.gov"
+      }
+    ]
+  }
+}

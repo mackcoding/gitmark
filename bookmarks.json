@@ -2,6 +2,7 @@
   "version": 1,
   "bookmarks": {
     "/News": [
+      { "name": "Test": "url": "https://github.com" },
       { "name": "Hacker News", "url": "https://news.ycombinator.com" }
     ],
     "/Dev": [
